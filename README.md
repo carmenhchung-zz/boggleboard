@@ -33,4 +33,4 @@ Next, assume we want "Qu" to be printed rather than "Q". You'll probably want to
 
 ## Further Work
 
-Boggleboard version 2 should model a person checking whether a given word is on the Boggle board or not."# boggleboard" 
+Boggleboard version 2 should model a person checking whether a given word is on the Boggle board or not.
